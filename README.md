@@ -3,7 +3,7 @@
 ## 使い方
 
 1. http://hkusu.github.io/js-test/kudo.js をインクルードします。
-2. 画像を表示したい場合は <img id="kudo"> で指定します。
+2. 画像を表示したい場合は \<img id="kudo"\> で指定します。
 
 ## サンプル
 
