@@ -20,8 +20,4 @@
     </body>
     </html>
 
-
-
-## デモ
-
 http://hkusu.github.io/js-test/sample.html
